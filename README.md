@@ -2,7 +2,7 @@
 
 Simplified Vim support as an External Editor in Unity3d running on any Linux environment using bash. Using the built-in external editor functions, this plugin allows developers to set their default editor to vim, open the project directory in vim (NERDTree support), and edit and sync as you save and load.
 
-##Functionality
+## Functionality
 
 - Overrides the open/double-click action on any MonoScript file to open in Vim.
 
@@ -22,7 +22,7 @@ Must be done for every project (Unity does not support global plugins yet)
 2. In Unity Select Edit &rarr; Preferences &rarr; External Tools.
 3. Browse and set your external editor to the `Assets/Plugins/Edtior/Vim/VimRunner.sh` file in your project directory. (This step can be skipped if already completed for another project)
 
-##Configuration
+## Configuration
 
 **Changing the default terminal**
 
