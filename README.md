@@ -6,7 +6,7 @@ Simplified Vim support as an External Editor in Unity3d running on any Linux env
 
 - Overrides the open/double-click action on any MonoScript file to open in Vim.
 
-- Adds an additional dialog button "Open C# Project Director in Vim" to the right-click menu
+- Adds an additional dialog button "Open C# Project Directory in Vim" to the right-click menu
 
 - If a Vim window is already initalized on the open of another file will open the file in the same window.
 
