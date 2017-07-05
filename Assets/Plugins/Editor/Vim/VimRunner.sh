@@ -1,6 +1,4 @@
 #!/bin/bash
-
-touch test
 #[Configuration]
 TERM="xfce4-terminal"
 
